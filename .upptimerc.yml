@@ -4,10 +4,10 @@ repo: status
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Blackboard
+    url: https://www.vle.shef.ac.uk
+  - name: Turnitin
+    url: https://turnitinuk.com/login_page.asp
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Broken Site
@@ -27,13 +27,13 @@ status-website:
   baseUrl: /status 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Status Page** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Digital Learning Status Page** automatically updated every 5 minutes"
+  introMessage: This page lists the availability of Digital Learning Tools at the University of Sheffield. **This page is in beta** and is powered by an open source [GitHub repository](https://github.com/upptime/upptime). 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: 
+      href: 
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
