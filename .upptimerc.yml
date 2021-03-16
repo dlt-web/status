@@ -5,7 +5,7 @@ repo: status
 # Add your sites here
 sites:
   - name: Blackboard
-    url: https://www.vle.shef.ac.uk
+    url: https://vle.shef.ac.uk
   - name: Turnitin
     url: https://turnitinuk.com/login_page.asp
   - name: Hacker News
