@@ -22,7 +22,7 @@ sites:
 
 status-website:
   # customHeadHtml: "<!-- Custom HTML to add in the <head> tag -->"
-  customBodyHtml: "<div class="svelte-14gfn20">More Information</div>"
+  # customBodyHtml: "<div class="svelte-14gfn20">More Information</div>"
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
