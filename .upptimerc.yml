@@ -21,6 +21,10 @@ sites:
     url: 1.1.1.1
 
 status-website:
+  # customHeadHtml: "<!-- Custom HTML to add in the <head> tag -->"
+  customBodyHtml: "<div class="svelte-14gfn20">More Information</div>"
+  
+status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: #enter cname here
   # Uncomment the following line if you don't have a custom domain and add your repo name
